@@ -1,0 +1,6 @@
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\bin\Debug\Conexion.dll
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\bin\Debug\Conexion.pdb
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\obj\Debug\Conexion.dll
+C:\Users\rafas\source\repos\Tarea1Final\Conexion\obj\Debug\Conexion.pdb

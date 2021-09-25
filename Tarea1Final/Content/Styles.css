@@ -1,0 +1,40 @@
+﻿body {
+}
+
+table {
+    width: 750px;
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+ 
+tr:nth-of-type(odd) {
+    background: #eee;
+}
+
+th {
+    background: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+
+td, th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 18px;
+}
+
+.UsersGridViewButton {
+    border: solid #4d83de;
+    font-family: 'Arial Unicode MS';
+    background-color: #4d83de;
+    color: #FFFFFf;
+    width: 80%; border-radius:50px;
+    height: 50%;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    padding-left: 10px;
+}
